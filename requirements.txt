@@ -1,0 +1,11 @@
+# Python 3.11 (tested on 3.11.8)
+# install:  pip install -r requirements.txt
+
+numpy==2.2.5
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.15.2
+matplotlib==3.10.1
+seaborn==0.13.2
+matplotlib-venn==1.1.2
+jupyterlab==4.4.1
